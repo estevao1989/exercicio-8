@@ -1,0 +1,1 @@
+imc = (peso, altura) => peso * (altura * altura)
